@@ -3,9 +3,9 @@
   <title><![CDATA[Hexo]]></title>
   
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
+  <link href="http://funnything2014.github.io/"/>
   <updated>2016-01-27T12:42:08.818Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://funnything2014.github.io/</id>
   
   <author>
     <name><![CDATA[John Doe]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/2016/01/27/hello-world/"/>
-    <id>http://yoursite.com/2016/01/27/hello-world/</id>
+    <link href="http://funnything2014.github.io/2016/01/27/hello-world/"/>
+    <id>http://funnything2014.github.io/2016/01/27/hello-world/</id>
     <published>2016-01-27T12:42:08.818Z</published>
     <updated>2016-01-27T12:42:08.818Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
